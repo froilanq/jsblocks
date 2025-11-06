@@ -1,1 +1,1 @@
-# jsblocks.github.io
+# jsblocks
